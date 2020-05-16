@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 17 02:27:48 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-1f47-555b-0000029d22f0 
+on database directory memory:/home/pranav/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/Store/598d601c-f541-4ba0-83bf-3d601c5b9fdf with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5bc2b487 
+Loaded from file:/home/pranav/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=14.0.1+7-Ubuntu-1ubuntu1
+user.dir=/home/pranav/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/Store
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-29-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
