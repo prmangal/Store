@@ -1,0 +1,18 @@
+name : contract_based_development
+server:
+  applicationConnectors:
+    - type: http
+      port: 8082
+  adminConnectors:
+    - type: http
+      port: 8083
+  requestLog:
+    appenders:
+      - type: file
+        currentLogFilename: C:/Users/pranav.mangal/Desktop/contract-based-development.log
+        threshold: INFO
+        archive: true
+        archivedLogFilenamePattern: C:/Users/pranav.mangal/Desktop/cbdcontract-based-development-%d{yyyy-MM-dd-HH}.log.gz
+        archivedFileCount: 20
+        timeZone: IST
+      - type: console
